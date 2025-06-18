@@ -57,5 +57,5 @@ make bonus
 ![FDF second example](./preview/map42.gif "42.fdf as GIF")
 
 ---
-Author: macuesta
+Author: macuesta <br />
 Last Updated: 18/06/2025
