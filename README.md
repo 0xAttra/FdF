@@ -23,39 +23,6 @@ The project uses **MinilibX**, the graphical library developed at 42, to open a 
 
 ---
 
-## Project Structure
-
-  ~/Documents/github/fdf
-   inc
-   └ 󰫵 fdf.h
-   libft
-   minilibx-linux
-   srcs
-     bonus
-   │ │ 󰙱 colors_bonus.c
-   │ │ 󰙱 draw_bonus.c
-   │ │ 󰙱 fdf_bonus.c
-   │ │ 󰙱 hooks_bonus.c
-   │ └ 󰙱 hooks_utils_bonus.c
-     hooks
-   │ │ 󰙱 hooks.c
-   │ └ 󰙱 hooks_utils.c
-     parsing
-   │ │ 󰙱 parsing_color.c
-   │ └ 󰙱 parsing_map.c
-   │ 󰙱 draw.c
-   │ 󰙱 env.c
-   │ 󰙱 free.c
-   │ 󰙱 maths.c
-   │ 󰙱 minilib.c
-   └ 󰙱 utils.c
-   test_maps
-   󱁤 Makefile
-    README.md
-   󰙱 fdf.c
-
----
-
 ## Installation
 
 ```bash
@@ -86,8 +53,8 @@ make bonus
 - Apply color gradients based on elevation
 
 ## Example Output
-![FDF first example](./preview/map50-4.png "50-4.fdf")
-![FDF second example](./preview/42map.gif "42.fdf as GIF")
+![FDF first example](./preview/50-4_map.png "Map 50-4.fdf")
+![FDF second example](./preview/map42.gif "42.fdf as GIF")
 
 ---
 Author: macuesta
